@@ -1,0 +1,12 @@
+datasets==2.14.4
+evaluate==0.4.0
+nltk
+numpy
+pandas
+openai==0.27.8
+sentencepiece==0.1.99
+sentence-transformers==2.2.2
+torch==2.0.1
+accelerate==0.23.0
+transformers==4.34.0
+haven-ai @ git+https://github.com/haven-ai/haven-ai
