@@ -1,17 +1,21 @@
 # PromptMix
 
-This is the repository for the EMNLP 2023 paper [PromptMix: A Class Boundary Augmentation Method for Large Language Model Distillation](https://arxiv.org/abs/2310.14192).
+This is the repository for the EMNLP 2023 paper [PromptMix: A Class Boundary Augmentation Method for Large Language Model Distillation](https://aclanthology.org/2023.emnlp-main.323/).
 
 ```bibtex
 @inproceedings{sahu-etal-2023-promptmix,
-    title = "PromptMix: A Class Boundary Augmentation Method for Large Language Model Distillation.",
+    title = "PromptMix: A Class Boundary Augmentation Method for Large Language Model Distillation",
     author = "Sahu, Gaurav  and
       Vechtomova, Olga  and
-      Bahdanau, Dzmitry and
-      Laradji, Issam H.
-      ",
-    booktitle = "Empirical Methods in Natural Language Processing 2023 (EMNLP)",
-    year = "2023"
+      Bahdanau, Dzmitry  and
+      Laradji, Issam",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.323",
+    pages = "5316--5327",
 }
 ```
 
